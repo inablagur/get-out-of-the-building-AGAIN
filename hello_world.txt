@@ -1,11 +1,10 @@
 Lorem ipsum dolor sit amet,  
 consectetuer adipiscing elit.  
-commodo ligula eget dolor.
-massa.  
+Aenen commodo ligula eget dolor.
+Aenen massa.  
 Cum sociis natoque penatibus "i'm walking here!" et magnis dis parturient montes,  
 nascetur ridiculus mus.  
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  
 Nulla consequat massa quis enim.  
 Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
-Done some changes by myself because I've done everything again to prepare perfectly to the TEST!
-still saved the last row to explain what's going on here :)
+
